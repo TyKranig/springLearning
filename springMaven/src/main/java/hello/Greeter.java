@@ -1,4 +1,4 @@
-package main.java.test;
+package hello;
 
 public class Greeter {
     public String sayHello() {
